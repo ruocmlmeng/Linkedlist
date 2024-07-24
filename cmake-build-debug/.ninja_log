@@ -1,0 +1,19 @@
+# ninja log v5
+1	126	7435018619592957	CMakeFiles/Linkedlist.dir/main.c.obj	6731d11c02ca44df
+14	133	7435018619668485	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+133	252	7435018620801902	Linkedlist.exe	c33c9f0c507e979c
+2	99	7435019087026023	CMakeFiles/Linkedlist.dir/main.c.obj	6731d11c02ca44df
+99	206	7435019088068380	Linkedlist.exe	c33c9f0c507e979c
+2	118	7435055177254339	CMakeFiles/Linkedlist.dir/main.c.obj	6731d11c02ca44df
+14	123	7435055177304331	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+123	248	7435055178499434	Linkedlist.exe	c33c9f0c507e979c
+2	91	7435055761213972	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+93	197	7435055762209441	Linkedlist.exe	c33c9f0c507e979c
+3	97	7435056365479558	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+97	205	7435056366496658	Linkedlist.exe	c33c9f0c507e979c
+3	109	7435089663141111	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+110	232	7435089664291293	Linkedlist.exe	c33c9f0c507e979c
+2	98	7435091284433879	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+99	211	7435091285509417	Linkedlist.exe	c33c9f0c507e979c
+2	97	7435092661964681	CMakeFiles/Linkedlist.dir/Linkedlist.c.obj	787fafc35db5a751
+98	214	7435092663067385	Linkedlist.exe	c33c9f0c507e979c
